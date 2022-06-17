@@ -11,6 +11,76 @@
 		324C2E672859B891008D4BB2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 324C2E662859B891008D4BB2 /* ContentView.swift */; };
 		324C2E692859B893008D4BB2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 324C2E682859B893008D4BB2 /* Assets.xcassets */; };
 		324C2E6C2859B893008D4BB2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 324C2E6B2859B893008D4BB2 /* Preview Assets.xcassets */; };
+		32A9D447285C7014006CAB9D /* Jasper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D446285C7014006CAB9D /* Jasper.swift */; };
+		32A9D452285C72EB006CAB9D /* Elyssa.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D451285C72EB006CAB9D /* Elyssa.swift */; };
+		32A9D454285C8487006CAB9D /* StudentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D453285C8487006CAB9D /* StudentView.swift */; };
+		32A9D456285C850A006CAB9D /* AngMoKioView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D455285C850A006CAB9D /* AngMoKioView.swift */; };
+		32A9D458285C8610006CAB9D /* Jolie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D457285C8610006CAB9D /* Jolie.swift */; };
+		32A9D45A285C861A006CAB9D /* Alina.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D459285C861A006CAB9D /* Alina.swift */; };
+		32A9D45C285C8627006CAB9D /* Wonho.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D45B285C8627006CAB9D /* Wonho.swift */; };
+		32A9D45E285C8639006CAB9D /* Nicole.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D45D285C8639006CAB9D /* Nicole.swift */; };
+		32A9D460285C8649006CAB9D /* Daryl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D45F285C8649006CAB9D /* Daryl.swift */; };
+		32A9D464285C887B006CAB9D /* InstructorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D463285C887B006CAB9D /* InstructorView.swift */; };
+		32A9D466285C8889006CAB9D /* YJ.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D465285C8889006CAB9D /* YJ.swift */; };
+		32A9D468285C88A3006CAB9D /* JiaChen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D467285C88A3006CAB9D /* JiaChen.swift */; };
+		32A9D470285C8A39006CAB9D /* EunosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D46F285C8A39006CAB9D /* EunosView.swift */; };
+		32A9D472285C8A41006CAB9D /* Saumil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D471285C8A41006CAB9D /* Saumil.swift */; };
+		32A9D474285C8A45006CAB9D /* Pearl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D473285C8A45006CAB9D /* Pearl.swift */; };
+		32A9D476285C8A4C006CAB9D /* ShaoQi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D475285C8A4C006CAB9D /* ShaoQi.swift */; };
+		32A9D478285C8A58006CAB9D /* Christopher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D477285C8A58006CAB9D /* Christopher.swift */; };
+		32A9D47A285C8A63006CAB9D /* Zara.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D479285C8A63006CAB9D /* Zara.swift */; };
+		32A9D47C285C8A6C006CAB9D /* Natalie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D47B285C8A6C006CAB9D /* Natalie.swift */; };
+		32A9D47E285C8A74006CAB9D /* Damien.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D47D285C8A74006CAB9D /* Damien.swift */; };
+		32A9D480285C8A7F006CAB9D /* Raditya.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D47F285C8A7F006CAB9D /* Raditya.swift */; };
+		32A9D484285C8AF6006CAB9D /* GulCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D483285C8AF6006CAB9D /* GulCircleView.swift */; };
+		32A9D486285C8B00006CAB9D /* KateLynn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D485285C8B00006CAB9D /* KateLynn.swift */; };
+		32A9D488285C8B05006CAB9D /* Angus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D487285C8B05006CAB9D /* Angus.swift */; };
+		32A9D48A285C8B0A006CAB9D /* Regina.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D489285C8B0A006CAB9D /* Regina.swift */; };
+		32A9D48C285C8B16006CAB9D /* YunJun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D48B285C8B16006CAB9D /* YunJun.swift */; };
+		32A9D48E285C8B1F006CAB9D /* GuanYi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D48D285C8B1F006CAB9D /* GuanYi.swift */; };
+		32A9D490285C8B2A006CAB9D /* YapTong.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D48F285C8B2A006CAB9D /* YapTong.swift */; };
+		32A9D492285C8B32006CAB9D /* Nethan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D491285C8B32006CAB9D /* Nethan.swift */; };
+		32A9D494285C8C16006CAB9D /* NewtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D493285C8C16006CAB9D /* NewtonView.swift */; };
+		32A9D496285C8C22006CAB9D /* Dishita.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D495285C8C22006CAB9D /* Dishita.swift */; };
+		32A9D498285C8C2B006CAB9D /* Alpheus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D497285C8C2B006CAB9D /* Alpheus.swift */; };
+		32A9D49A285C8C2F006CAB9D /* Yuhan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D499285C8C2F006CAB9D /* Yuhan.swift */; };
+		32A9D49C285C8C34006CAB9D /* JunHeng.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D49B285C8C34006CAB9D /* JunHeng.swift */; };
+		32A9D49E285C8C3A006CAB9D /* JingXian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D49D285C8C3A006CAB9D /* JingXian.swift */; };
+		32A9D4A0285C8C41006CAB9D /* Ryan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D49F285C8C41006CAB9D /* Ryan.swift */; };
+		32A9D4A2285C8C47006CAB9D /* Zachary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4A1285C8C47006CAB9D /* Zachary.swift */; };
+		32A9D4A4285C8D66006CAB9D /* NicollHighwayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4A3285C8D66006CAB9D /* NicollHighwayView.swift */; };
+		32A9D4A6285C8D70006CAB9D /* James.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4A5285C8D70006CAB9D /* James.swift */; };
+		32A9D4A8285C8D77006CAB9D /* ZhangBo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4A7285C8D77006CAB9D /* ZhangBo.swift */; };
+		32A9D4AA285C8D7B006CAB9D /* Gilbert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4A9285C8D7B006CAB9D /* Gilbert.swift */; };
+		32A9D4AC285C8D80006CAB9D /* Lindsey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4AB285C8D80006CAB9D /* Lindsey.swift */; };
+		32A9D4AE285C8D87006CAB9D /* Harish.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4AD285C8D87006CAB9D /* Harish.swift */; };
+		32A9D4B0285C8D8E006CAB9D /* EnJie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4AF285C8D8E006CAB9D /* EnJie.swift */; };
+		32A9D4B2285C8D92006CAB9D /* Benson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4B1285C8D92006CAB9D /* Benson.swift */; };
+		32A9D4B4285C8DFB006CAB9D /* OneNorthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4B3285C8DFB006CAB9D /* OneNorthView.swift */; };
+		32A9D4B6285C8E0F006CAB9D /* Chloe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4B5285C8E0F006CAB9D /* Chloe.swift */; };
+		32A9D4B8285C8E1E006CAB9D /* Aaron.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4B7285C8E1E006CAB9D /* Aaron.swift */; };
+		32A9D4BA285C8E24006CAB9D /* Zhiyu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4B9285C8E24006CAB9D /* Zhiyu.swift */; };
+		32A9D4BC285C8E29006CAB9D /* Katelyn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4BB285C8E29006CAB9D /* Katelyn.swift */; };
+		32A9D4BE285C8E31006CAB9D /* Felix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4BD285C8E31006CAB9D /* Felix.swift */; };
+		32A9D4C0285C8E37006CAB9D /* KaiQuan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4BF285C8E37006CAB9D /* KaiQuan.swift */; };
+		32A9D4C2285C8E3D006CAB9D /* Daniyal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4C1285C8E3D006CAB9D /* Daniyal.swift */; };
+		32A9D4C4285C8EC5006CAB9D /* WoodlandsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4C3285C8EC5006CAB9D /* WoodlandsView.swift */; };
+		32A9D4C6285C8ED6006CAB9D /* StevensView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4C5285C8ED6006CAB9D /* StevensView.swift */; };
+		32A9D4C8285C8EFA006CAB9D /* Niutian.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4C7285C8EFA006CAB9D /* Niutian.swift */; };
+		32A9D4CA285C8F01006CAB9D /* Isaac.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4C9285C8F01006CAB9D /* Isaac.swift */; };
+		32A9D4CE285C8F15006CAB9D /* XinXuan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4CD285C8F15006CAB9D /* XinXuan.swift */; };
+		32A9D4D0285C8F1C006CAB9D /* Vanisha.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4CF285C8F1C006CAB9D /* Vanisha.swift */; };
+		32A9D4D2285C8F23006CAB9D /* Ethan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4D1285C8F23006CAB9D /* Ethan.swift */; };
+		32A9D4D4285C8F29006CAB9D /* Rachel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4D3285C8F29006CAB9D /* Rachel.swift */; };
+		32A9D4D6285C8F2F006CAB9D /* Geoffrey.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4D5285C8F2F006CAB9D /* Geoffrey.swift */; };
+		32A9D4D8285C8F35006CAB9D /* Haoming.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4D7285C8F35006CAB9D /* Haoming.swift */; };
+		32A9D4DA285C8FA0006CAB9D /* Xinyi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4D9285C8FA0006CAB9D /* Xinyi.swift */; };
+		32A9D4DC285C8FA9006CAB9D /* HaoYuan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4DB285C8FA9006CAB9D /* HaoYuan.swift */; };
+		32A9D4DE285C8FAE006CAB9D /* KaiQi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4DD285C8FAE006CAB9D /* KaiQi.swift */; };
+		32A9D4E0285C8FB2006CAB9D /* Kaitlyn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4DF285C8FB2006CAB9D /* Kaitlyn.swift */; };
+		32A9D4E2285C8FB7006CAB9D /* Faith.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4E1285C8FB7006CAB9D /* Faith.swift */; };
+		32A9D4E4285C8FBA006CAB9D /* Sairam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4E3285C8FBA006CAB9D /* Sairam.swift */; };
+		32A9D4E6285C8FC2006CAB9D /* Daniel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32A9D4E5285C8FC1006CAB9D /* Daniel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +89,76 @@
 		324C2E662859B891008D4BB2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		324C2E682859B893008D4BB2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		324C2E6B2859B893008D4BB2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		32A9D446285C7014006CAB9D /* Jasper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jasper.swift; sourceTree = "<group>"; };
+		32A9D451285C72EB006CAB9D /* Elyssa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Elyssa.swift; sourceTree = "<group>"; };
+		32A9D453285C8487006CAB9D /* StudentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentView.swift; sourceTree = "<group>"; };
+		32A9D455285C850A006CAB9D /* AngMoKioView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AngMoKioView.swift; sourceTree = "<group>"; };
+		32A9D457285C8610006CAB9D /* Jolie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jolie.swift; sourceTree = "<group>"; };
+		32A9D459285C861A006CAB9D /* Alina.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alina.swift; sourceTree = "<group>"; };
+		32A9D45B285C8627006CAB9D /* Wonho.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wonho.swift; sourceTree = "<group>"; };
+		32A9D45D285C8639006CAB9D /* Nicole.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nicole.swift; sourceTree = "<group>"; };
+		32A9D45F285C8649006CAB9D /* Daryl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Daryl.swift; sourceTree = "<group>"; };
+		32A9D463285C887B006CAB9D /* InstructorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructorView.swift; sourceTree = "<group>"; };
+		32A9D465285C8889006CAB9D /* YJ.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YJ.swift; sourceTree = "<group>"; };
+		32A9D467285C88A3006CAB9D /* JiaChen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JiaChen.swift; sourceTree = "<group>"; };
+		32A9D46F285C8A39006CAB9D /* EunosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EunosView.swift; sourceTree = "<group>"; };
+		32A9D471285C8A41006CAB9D /* Saumil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Saumil.swift; sourceTree = "<group>"; };
+		32A9D473285C8A45006CAB9D /* Pearl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pearl.swift; sourceTree = "<group>"; };
+		32A9D475285C8A4C006CAB9D /* ShaoQi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShaoQi.swift; sourceTree = "<group>"; };
+		32A9D477285C8A58006CAB9D /* Christopher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Christopher.swift; sourceTree = "<group>"; };
+		32A9D479285C8A63006CAB9D /* Zara.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zara.swift; sourceTree = "<group>"; };
+		32A9D47B285C8A6C006CAB9D /* Natalie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Natalie.swift; sourceTree = "<group>"; };
+		32A9D47D285C8A74006CAB9D /* Damien.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Damien.swift; sourceTree = "<group>"; };
+		32A9D47F285C8A7F006CAB9D /* Raditya.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Raditya.swift; sourceTree = "<group>"; };
+		32A9D483285C8AF6006CAB9D /* GulCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GulCircleView.swift; sourceTree = "<group>"; };
+		32A9D485285C8B00006CAB9D /* KateLynn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KateLynn.swift; sourceTree = "<group>"; };
+		32A9D487285C8B05006CAB9D /* Angus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Angus.swift; sourceTree = "<group>"; };
+		32A9D489285C8B0A006CAB9D /* Regina.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Regina.swift; sourceTree = "<group>"; };
+		32A9D48B285C8B16006CAB9D /* YunJun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YunJun.swift; sourceTree = "<group>"; };
+		32A9D48D285C8B1F006CAB9D /* GuanYi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuanYi.swift; sourceTree = "<group>"; };
+		32A9D48F285C8B2A006CAB9D /* YapTong.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YapTong.swift; sourceTree = "<group>"; };
+		32A9D491285C8B32006CAB9D /* Nethan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nethan.swift; sourceTree = "<group>"; };
+		32A9D493285C8C16006CAB9D /* NewtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewtonView.swift; sourceTree = "<group>"; };
+		32A9D495285C8C22006CAB9D /* Dishita.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dishita.swift; sourceTree = "<group>"; };
+		32A9D497285C8C2B006CAB9D /* Alpheus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alpheus.swift; sourceTree = "<group>"; };
+		32A9D499285C8C2F006CAB9D /* Yuhan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Yuhan.swift; sourceTree = "<group>"; };
+		32A9D49B285C8C34006CAB9D /* JunHeng.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JunHeng.swift; sourceTree = "<group>"; };
+		32A9D49D285C8C3A006CAB9D /* JingXian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JingXian.swift; sourceTree = "<group>"; };
+		32A9D49F285C8C41006CAB9D /* Ryan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ryan.swift; sourceTree = "<group>"; };
+		32A9D4A1285C8C47006CAB9D /* Zachary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zachary.swift; sourceTree = "<group>"; };
+		32A9D4A3285C8D66006CAB9D /* NicollHighwayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NicollHighwayView.swift; sourceTree = "<group>"; };
+		32A9D4A5285C8D70006CAB9D /* James.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = James.swift; sourceTree = "<group>"; };
+		32A9D4A7285C8D77006CAB9D /* ZhangBo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZhangBo.swift; sourceTree = "<group>"; };
+		32A9D4A9285C8D7B006CAB9D /* Gilbert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gilbert.swift; sourceTree = "<group>"; };
+		32A9D4AB285C8D80006CAB9D /* Lindsey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lindsey.swift; sourceTree = "<group>"; };
+		32A9D4AD285C8D87006CAB9D /* Harish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Harish.swift; sourceTree = "<group>"; };
+		32A9D4AF285C8D8E006CAB9D /* EnJie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnJie.swift; sourceTree = "<group>"; };
+		32A9D4B1285C8D92006CAB9D /* Benson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Benson.swift; sourceTree = "<group>"; };
+		32A9D4B3285C8DFB006CAB9D /* OneNorthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneNorthView.swift; sourceTree = "<group>"; };
+		32A9D4B5285C8E0F006CAB9D /* Chloe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Chloe.swift; sourceTree = "<group>"; };
+		32A9D4B7285C8E1E006CAB9D /* Aaron.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aaron.swift; sourceTree = "<group>"; };
+		32A9D4B9285C8E24006CAB9D /* Zhiyu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zhiyu.swift; sourceTree = "<group>"; };
+		32A9D4BB285C8E29006CAB9D /* Katelyn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Katelyn.swift; sourceTree = "<group>"; };
+		32A9D4BD285C8E31006CAB9D /* Felix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Felix.swift; sourceTree = "<group>"; };
+		32A9D4BF285C8E37006CAB9D /* KaiQuan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaiQuan.swift; sourceTree = "<group>"; };
+		32A9D4C1285C8E3D006CAB9D /* Daniyal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Daniyal.swift; sourceTree = "<group>"; };
+		32A9D4C3285C8EC5006CAB9D /* WoodlandsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WoodlandsView.swift; sourceTree = "<group>"; };
+		32A9D4C5285C8ED6006CAB9D /* StevensView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StevensView.swift; sourceTree = "<group>"; };
+		32A9D4C7285C8EFA006CAB9D /* Niutian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Niutian.swift; sourceTree = "<group>"; };
+		32A9D4C9285C8F01006CAB9D /* Isaac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Isaac.swift; sourceTree = "<group>"; };
+		32A9D4CD285C8F15006CAB9D /* XinXuan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XinXuan.swift; sourceTree = "<group>"; };
+		32A9D4CF285C8F1C006CAB9D /* Vanisha.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vanisha.swift; sourceTree = "<group>"; };
+		32A9D4D1285C8F23006CAB9D /* Ethan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ethan.swift; sourceTree = "<group>"; };
+		32A9D4D3285C8F29006CAB9D /* Rachel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rachel.swift; sourceTree = "<group>"; };
+		32A9D4D5285C8F2F006CAB9D /* Geoffrey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Geoffrey.swift; sourceTree = "<group>"; };
+		32A9D4D7285C8F35006CAB9D /* Haoming.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Haoming.swift; sourceTree = "<group>"; };
+		32A9D4D9285C8FA0006CAB9D /* Xinyi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xinyi.swift; sourceTree = "<group>"; };
+		32A9D4DB285C8FA9006CAB9D /* HaoYuan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HaoYuan.swift; sourceTree = "<group>"; };
+		32A9D4DD285C8FAE006CAB9D /* KaiQi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KaiQi.swift; sourceTree = "<group>"; };
+		32A9D4DF285C8FB2006CAB9D /* Kaitlyn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kaitlyn.swift; sourceTree = "<group>"; };
+		32A9D4E1285C8FB7006CAB9D /* Faith.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Faith.swift; sourceTree = "<group>"; };
+		32A9D4E3285C8FBA006CAB9D /* Sairam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sairam.swift; sourceTree = "<group>"; };
+		32A9D4E5285C8FC1006CAB9D /* Daniel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Daniel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +193,16 @@
 			children = (
 				324C2E642859B891008D4BB2 /* About_UsApp.swift */,
 				324C2E662859B891008D4BB2 /* ContentView.swift */,
+				32A9D453285C8487006CAB9D /* StudentView.swift */,
+				32A9D462285C886B006CAB9D /* Instructors */,
+				32A9D461285C87CF006CAB9D /* Stevens */,
+				32A9D469285C89D8006CAB9D /* Eunos */,
+				32A9D448285C701C006CAB9D /* Ang Mo Kio */,
+				32A9D46A285C89E2006CAB9D /* Newton */,
+				32A9D46B285C89F1006CAB9D /* Woodlands */,
+				32A9D46C285C89FE006CAB9D /* one-north */,
+				32A9D46D285C8A09006CAB9D /* Nicoll Highway */,
+				32A9D46E285C8A14006CAB9D /* Gul Circle */,
 				324C2E682859B893008D4BB2 /* Assets.xcassets */,
 				324C2E6A2859B893008D4BB2 /* Preview Content */,
 			);
@@ -65,6 +215,138 @@
 				324C2E6B2859B893008D4BB2 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		32A9D448285C701C006CAB9D /* Ang Mo Kio */ = {
+			isa = PBXGroup;
+			children = (
+				32A9D455285C850A006CAB9D /* AngMoKioView.swift */,
+				32A9D446285C7014006CAB9D /* Jasper.swift */,
+				32A9D451285C72EB006CAB9D /* Elyssa.swift */,
+				32A9D457285C8610006CAB9D /* Jolie.swift */,
+				32A9D459285C861A006CAB9D /* Alina.swift */,
+				32A9D45B285C8627006CAB9D /* Wonho.swift */,
+				32A9D45D285C8639006CAB9D /* Nicole.swift */,
+				32A9D45F285C8649006CAB9D /* Daryl.swift */,
+			);
+			path = "Ang Mo Kio";
+			sourceTree = "<group>";
+		};
+		32A9D461285C87CF006CAB9D /* Stevens */ = {
+			isa = PBXGroup;
+			children = (
+				32A9D4C5285C8ED6006CAB9D /* StevensView.swift */,
+				32A9D4C7285C8EFA006CAB9D /* Niutian.swift */,
+				32A9D4C9285C8F01006CAB9D /* Isaac.swift */,
+				32A9D4D1285C8F23006CAB9D /* Ethan.swift */,
+				32A9D4CD285C8F15006CAB9D /* XinXuan.swift */,
+				32A9D4CF285C8F1C006CAB9D /* Vanisha.swift */,
+				32A9D4D3285C8F29006CAB9D /* Rachel.swift */,
+				32A9D4D5285C8F2F006CAB9D /* Geoffrey.swift */,
+				32A9D4D7285C8F35006CAB9D /* Haoming.swift */,
+			);
+			path = Stevens;
+			sourceTree = "<group>";
+		};
+		32A9D462285C886B006CAB9D /* Instructors */ = {
+			isa = PBXGroup;
+			children = (
+				32A9D463285C887B006CAB9D /* InstructorView.swift */,
+				32A9D465285C8889006CAB9D /* YJ.swift */,
+				32A9D467285C88A3006CAB9D /* JiaChen.swift */,
+			);
+			path = Instructors;
+			sourceTree = "<group>";
+		};
+		32A9D469285C89D8006CAB9D /* Eunos */ = {
+			isa = PBXGroup;
+			children = (
+				32A9D46F285C8A39006CAB9D /* EunosView.swift */,
+				32A9D471285C8A41006CAB9D /* Saumil.swift */,
+				32A9D473285C8A45006CAB9D /* Pearl.swift */,
+				32A9D475285C8A4C006CAB9D /* ShaoQi.swift */,
+				32A9D477285C8A58006CAB9D /* Christopher.swift */,
+				32A9D479285C8A63006CAB9D /* Zara.swift */,
+				32A9D47B285C8A6C006CAB9D /* Natalie.swift */,
+				32A9D47D285C8A74006CAB9D /* Damien.swift */,
+				32A9D47F285C8A7F006CAB9D /* Raditya.swift */,
+			);
+			path = Eunos;
+			sourceTree = "<group>";
+		};
+		32A9D46A285C89E2006CAB9D /* Newton */ = {
+			isa = PBXGroup;
+			children = (
+				32A9D493285C8C16006CAB9D /* NewtonView.swift */,
+				32A9D495285C8C22006CAB9D /* Dishita.swift */,
+				32A9D497285C8C2B006CAB9D /* Alpheus.swift */,
+				32A9D499285C8C2F006CAB9D /* Yuhan.swift */,
+				32A9D49B285C8C34006CAB9D /* JunHeng.swift */,
+				32A9D49D285C8C3A006CAB9D /* JingXian.swift */,
+				32A9D49F285C8C41006CAB9D /* Ryan.swift */,
+				32A9D4A1285C8C47006CAB9D /* Zachary.swift */,
+			);
+			path = Newton;
+			sourceTree = "<group>";
+		};
+		32A9D46B285C89F1006CAB9D /* Woodlands */ = {
+			isa = PBXGroup;
+			children = (
+				32A9D4C3285C8EC5006CAB9D /* WoodlandsView.swift */,
+				32A9D4D9285C8FA0006CAB9D /* Xinyi.swift */,
+				32A9D4DB285C8FA9006CAB9D /* HaoYuan.swift */,
+				32A9D4DD285C8FAE006CAB9D /* KaiQi.swift */,
+				32A9D4DF285C8FB2006CAB9D /* Kaitlyn.swift */,
+				32A9D4E1285C8FB7006CAB9D /* Faith.swift */,
+				32A9D4E3285C8FBA006CAB9D /* Sairam.swift */,
+				32A9D4E5285C8FC1006CAB9D /* Daniel.swift */,
+			);
+			path = Woodlands;
+			sourceTree = "<group>";
+		};
+		32A9D46C285C89FE006CAB9D /* one-north */ = {
+			isa = PBXGroup;
+			children = (
+				32A9D4B3285C8DFB006CAB9D /* OneNorthView.swift */,
+				32A9D4B5285C8E0F006CAB9D /* Chloe.swift */,
+				32A9D4B7285C8E1E006CAB9D /* Aaron.swift */,
+				32A9D4B9285C8E24006CAB9D /* Zhiyu.swift */,
+				32A9D4BB285C8E29006CAB9D /* Katelyn.swift */,
+				32A9D4BD285C8E31006CAB9D /* Felix.swift */,
+				32A9D4BF285C8E37006CAB9D /* KaiQuan.swift */,
+				32A9D4C1285C8E3D006CAB9D /* Daniyal.swift */,
+			);
+			path = "one-north";
+			sourceTree = "<group>";
+		};
+		32A9D46D285C8A09006CAB9D /* Nicoll Highway */ = {
+			isa = PBXGroup;
+			children = (
+				32A9D4A3285C8D66006CAB9D /* NicollHighwayView.swift */,
+				32A9D4A5285C8D70006CAB9D /* James.swift */,
+				32A9D4A7285C8D77006CAB9D /* ZhangBo.swift */,
+				32A9D4A9285C8D7B006CAB9D /* Gilbert.swift */,
+				32A9D4AB285C8D80006CAB9D /* Lindsey.swift */,
+				32A9D4AD285C8D87006CAB9D /* Harish.swift */,
+				32A9D4AF285C8D8E006CAB9D /* EnJie.swift */,
+				32A9D4B1285C8D92006CAB9D /* Benson.swift */,
+			);
+			path = "Nicoll Highway";
+			sourceTree = "<group>";
+		};
+		32A9D46E285C8A14006CAB9D /* Gul Circle */ = {
+			isa = PBXGroup;
+			children = (
+				32A9D483285C8AF6006CAB9D /* GulCircleView.swift */,
+				32A9D485285C8B00006CAB9D /* KateLynn.swift */,
+				32A9D487285C8B05006CAB9D /* Angus.swift */,
+				32A9D489285C8B0A006CAB9D /* Regina.swift */,
+				32A9D48B285C8B16006CAB9D /* YunJun.swift */,
+				32A9D48D285C8B1F006CAB9D /* GuanYi.swift */,
+				32A9D48F285C8B2A006CAB9D /* YapTong.swift */,
+				32A9D491285C8B32006CAB9D /* Nethan.swift */,
+			);
+			path = "Gul Circle";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +419,78 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32A9D4BE285C8E31006CAB9D /* Felix.swift in Sources */,
+				32A9D498285C8C2B006CAB9D /* Alpheus.swift in Sources */,
+				32A9D49E285C8C3A006CAB9D /* JingXian.swift in Sources */,
 				324C2E672859B891008D4BB2 /* ContentView.swift in Sources */,
+				32A9D4E6285C8FC2006CAB9D /* Daniel.swift in Sources */,
+				32A9D494285C8C16006CAB9D /* NewtonView.swift in Sources */,
+				32A9D49A285C8C2F006CAB9D /* Yuhan.swift in Sources */,
+				32A9D4A0285C8C41006CAB9D /* Ryan.swift in Sources */,
 				324C2E652859B891008D4BB2 /* About_UsApp.swift in Sources */,
+				32A9D4C2285C8E3D006CAB9D /* Daniyal.swift in Sources */,
+				32A9D4B0285C8D8E006CAB9D /* EnJie.swift in Sources */,
+				32A9D4D2285C8F23006CAB9D /* Ethan.swift in Sources */,
+				32A9D4B6285C8E0F006CAB9D /* Chloe.swift in Sources */,
+				32A9D478285C8A58006CAB9D /* Christopher.swift in Sources */,
+				32A9D4D8285C8F35006CAB9D /* Haoming.swift in Sources */,
+				32A9D4E2285C8FB7006CAB9D /* Faith.swift in Sources */,
+				32A9D472285C8A41006CAB9D /* Saumil.swift in Sources */,
+				32A9D4DA285C8FA0006CAB9D /* Xinyi.swift in Sources */,
+				32A9D48E285C8B1F006CAB9D /* GuanYi.swift in Sources */,
+				32A9D48C285C8B16006CAB9D /* YunJun.swift in Sources */,
+				32A9D474285C8A45006CAB9D /* Pearl.swift in Sources */,
+				32A9D460285C8649006CAB9D /* Daryl.swift in Sources */,
+				32A9D486285C8B00006CAB9D /* KateLynn.swift in Sources */,
+				32A9D470285C8A39006CAB9D /* EunosView.swift in Sources */,
+				32A9D47E285C8A74006CAB9D /* Damien.swift in Sources */,
+				32A9D464285C887B006CAB9D /* InstructorView.swift in Sources */,
+				32A9D45C285C8627006CAB9D /* Wonho.swift in Sources */,
+				32A9D476285C8A4C006CAB9D /* ShaoQi.swift in Sources */,
+				32A9D484285C8AF6006CAB9D /* GulCircleView.swift in Sources */,
+				32A9D4CE285C8F15006CAB9D /* XinXuan.swift in Sources */,
+				32A9D47C285C8A6C006CAB9D /* Natalie.swift in Sources */,
+				32A9D4B8285C8E1E006CAB9D /* Aaron.swift in Sources */,
+				32A9D4BC285C8E29006CAB9D /* Katelyn.swift in Sources */,
+				32A9D480285C8A7F006CAB9D /* Raditya.swift in Sources */,
+				32A9D4D4285C8F29006CAB9D /* Rachel.swift in Sources */,
+				32A9D4DE285C8FAE006CAB9D /* KaiQi.swift in Sources */,
+				32A9D4A2285C8C47006CAB9D /* Zachary.swift in Sources */,
+				32A9D4D6285C8F2F006CAB9D /* Geoffrey.swift in Sources */,
+				32A9D452285C72EB006CAB9D /* Elyssa.swift in Sources */,
+				32A9D4A4285C8D66006CAB9D /* NicollHighwayView.swift in Sources */,
+				32A9D492285C8B32006CAB9D /* Nethan.swift in Sources */,
+				32A9D488285C8B05006CAB9D /* Angus.swift in Sources */,
+				32A9D4C0285C8E37006CAB9D /* KaiQuan.swift in Sources */,
+				32A9D47A285C8A63006CAB9D /* Zara.swift in Sources */,
+				32A9D4AA285C8D7B006CAB9D /* Gilbert.swift in Sources */,
+				32A9D4B2285C8D92006CAB9D /* Benson.swift in Sources */,
+				32A9D4E4285C8FBA006CAB9D /* Sairam.swift in Sources */,
+				32A9D490285C8B2A006CAB9D /* YapTong.swift in Sources */,
+				32A9D4A6285C8D70006CAB9D /* James.swift in Sources */,
+				32A9D468285C88A3006CAB9D /* JiaChen.swift in Sources */,
+				32A9D4CA285C8F01006CAB9D /* Isaac.swift in Sources */,
+				32A9D45A285C861A006CAB9D /* Alina.swift in Sources */,
+				32A9D49C285C8C34006CAB9D /* JunHeng.swift in Sources */,
+				32A9D45E285C8639006CAB9D /* Nicole.swift in Sources */,
+				32A9D4DC285C8FA9006CAB9D /* HaoYuan.swift in Sources */,
+				32A9D4B4285C8DFB006CAB9D /* OneNorthView.swift in Sources */,
+				32A9D4AE285C8D87006CAB9D /* Harish.swift in Sources */,
+				32A9D466285C8889006CAB9D /* YJ.swift in Sources */,
+				32A9D4C6285C8ED6006CAB9D /* StevensView.swift in Sources */,
+				32A9D4AC285C8D80006CAB9D /* Lindsey.swift in Sources */,
+				32A9D456285C850A006CAB9D /* AngMoKioView.swift in Sources */,
+				32A9D4D0285C8F1C006CAB9D /* Vanisha.swift in Sources */,
+				32A9D4BA285C8E24006CAB9D /* Zhiyu.swift in Sources */,
+				32A9D4C8285C8EFA006CAB9D /* Niutian.swift in Sources */,
+				32A9D454285C8487006CAB9D /* StudentView.swift in Sources */,
+				32A9D447285C7014006CAB9D /* Jasper.swift in Sources */,
+				32A9D48A285C8B0A006CAB9D /* Regina.swift in Sources */,
+				32A9D4C4285C8EC5006CAB9D /* WoodlandsView.swift in Sources */,
+				32A9D458285C8610006CAB9D /* Jolie.swift in Sources */,
+				32A9D4E0285C8FB2006CAB9D /* Kaitlyn.swift in Sources */,
+				32A9D496285C8C22006CAB9D /* Dishita.swift in Sources */,
+				32A9D4A8285C8D77006CAB9D /* ZhangBo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -8,19 +8,22 @@
 // | your name.                          |
 // +-------------------------------------+
 //
-//  About_UsApp.swift
+//  YJ.swift
 //  About Us
 //
-//  Created by Jia Chen Yee on 15/6/22.
+//  Created by Jia Chen Yee on 17/6/22.
 //
 
 import SwiftUI
 
-@main
-struct About_UsApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
-        }
+struct YJ: View {
+    var body: some View {
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+    }
+}
+
+struct YJ_Previews: PreviewProvider {
+    static var previews: some View {
+        YJ()
     }
 }

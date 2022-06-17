@@ -8,19 +8,28 @@
 // | your name.                          |
 // +-------------------------------------+
 //
-//  About_UsApp.swift
+//  StudentView.swift
 //  About Us
 //
-//  Created by Jia Chen Yee on 15/6/22.
+//  Created by Jia Chen Yee on 17/6/22.
 //
 
 import SwiftUI
 
-@main
-struct About_UsApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ContentView()
+struct StudentView<Content: View>: View {
+    var name: String
+    var view: Content
+    
+    var body: some View {
+        NavigationLink(name) {
+            view
         }
+        .disabled(String(describing: type(of: view.body)) == "Text")
+    }
+}
+
+struct StudentView_Previews: PreviewProvider {
+    static var previews: some View {
+        StudentView(name: "Test", view: Text("Hello"))
     }
 }

@@ -82,7 +82,7 @@ struct Ethan: View {
                 .position(x: 130, y: 538)
             HStack(alignment: .center){
                 Link(destination:URL(string: "mailto:ethanolicacid@outlook.com")!){
-                    Image(systemName: "envelope.fill")
+                    Image(systemName: "envelope")
                         .resizable()
                         .scaledToFit()
                         .frame(width: 25, height: 25)
@@ -92,7 +92,7 @@ struct Ethan: View {
                         .background(Color(hue: 0.591, saturation: 1.0, brightness: 1.0))
                         .cornerRadius(10)
                         .shadow(color: Color(hue: 1.0, saturation: 0.0, brightness: 0.334), radius: 2, x: 0, y: 2)
-                    Text("ethanolicacid@outlook.com")
+                    Text("Pigeon mail")
                         .fontWeight(.medium)
                         .lineLimit(1)
                         .frame(width:220)
@@ -101,7 +101,7 @@ struct Ethan: View {
                 
             HStack(alignment: .center){
                 Link(destination:URL(string: "tel:+6588758810")!){
-                    Image(systemName: "phone.fill")
+                    Image(systemName: "phone")
                         .resizable()
                         .scaledToFit()
                         .frame(width: 25, height: 25)
@@ -111,7 +111,7 @@ struct Ethan: View {
                         .background(Color(hue: 0.37, saturation: 1.0, brightness: 0.837))
                         .cornerRadius(10)
                         .shadow(color: Color(hue: 1.0, saturation: 0.0, brightness: 0.334), radius: 2, x: 0, y: 2)
-                    Text("+65 8875 8810")
+                    Text("Spam call")
                         .fontWeight(.medium)
             }
             .position(x: -85, y: 650)

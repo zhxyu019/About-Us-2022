@@ -15,7 +15,7 @@ struct Daryl: View {
         withAnimation(Animation.easeInOut(duration: 60)){
             lineLength = 1
         }
-
+        
         
         Timer.scheduledTimer(withTimeInterval: 60, repeats: true) { timer in
             sleep(5)
@@ -37,7 +37,7 @@ struct Daryl: View {
                         path.addLine(to: CGPoint(x: x, y: y))
                     }
                 }
-                    path.closeSubpath()
+                path.closeSubpath()
             }
             .trim(from: lineLength * 2 - 1 , to: lineLength)
             .stroke(.cyan, style: StrokeStyle(lineWidth: 5, lineCap: .round, lineJoin: .round))
@@ -56,6 +56,7 @@ struct Daryl: View {
                     .font(.title2)
                     .padding()
             }
+        }
     }
 }
 

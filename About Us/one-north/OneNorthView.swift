@@ -22,6 +22,7 @@ struct OneNorthView: View {
         StudentView(name: "Aaron", view: Aaron())
         StudentView(name: "Zhiyu", view: Zhiyu())
         StudentView(name: "Katelyn", view: Katelyn())
+        StudentView(name: "Felix", view: Felix())
         StudentView(name: "Kai Quan", view: KaiQuan())
         StudentView(name: "Daniyal", view: Daniyal())
     }

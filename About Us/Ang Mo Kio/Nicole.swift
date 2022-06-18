@@ -8,8 +8,16 @@
 import SwiftUI
 
 struct Nicole: View {
+    
+    @State var helloRotation: Angle = .zero
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        
+        VStack {
+            Text("hello i'm")
+                .rotation3DEffect(helloRotation, axis: (0, 1, 1))
+            Text("nicole")
+        }
     }
 }
 

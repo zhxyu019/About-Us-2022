@@ -18,7 +18,10 @@ import SwiftUI
 
 struct YJ: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Text("YJ")
+            Text("[My favourite characters](https://www.youtube.com/watch?v=1UdI_eoDPKQ)")
+        }
     }
 }
 

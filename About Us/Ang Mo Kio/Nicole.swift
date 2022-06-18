@@ -16,12 +16,25 @@ struct Nicole: View {
     var body: some View {
         
         VStack {
-            Text("hello i'm")
-                .font(.system(size: 40, weight: .bold, design: .serif))
-                .offset(y: -200)
             Text("nicole")
-                .rotation3DEffect(helloRotation, axis: (1, 0, 0))
-                .font(.system(size: 30, weight: .regular, design: .rounded))
+                .font(.system(size: 40, weight: .bold, design: .serif))
+            Image("paw patrol")
+                .resizable()
+                .frame(width: 300, height: 300)
+                .aspectRatio(contentMode: .fill)
+                .mask(Circle())
+                .padding()
+            HStack{
+                Text("paw")
+                    .rotation3DEffect(helloRotation, axis: (1, 2, 1))
+                    .font(.system(size: 30, weight: .regular, design: .rounded))
+                    .padding()
+                Text("patrol")
+                    .rotation3DEffect(helloRotation, axis: (1, -2, -1))
+                    .font(.system(size: 30, weight: .regular, design: .rounded))
+                    .padding()
+            }
+
             Button{
                 openURL(URL(string: "https://youtu.be/a3LLv53LEuY")!)
             }label: {
@@ -29,7 +42,7 @@ struct Nicole: View {
                     Image(systemName: "video.fill")
                         .foregroundColor(.white)
                         .font(.system(size: 20))
-                    Text("Watch this video")
+                    Text("what i play on loop!")
                         .foregroundColor(.white)
                         .font(.system(size: 20, weight: .semibold, design: .serif))
                 }
@@ -37,7 +50,24 @@ struct Nicole: View {
             }
             .background(Color.teal)
             .cornerRadius(15)
-                
+            .padding()
+            
+            Button{
+                openURL(URL(string: "http://www.gamekidgame.com/paw/paw_games.html")!)
+            }label: {
+                HStack{
+                    Image(systemName: "gamecontroller.fill")
+                        .foregroundColor(.white)
+                        .font(.system(size: 20))
+                    Text("my favourite games!")
+                        .foregroundColor(.white)
+                        .font(.system(size: 20, weight: .semibold, design: .serif))
+                }
+                .padding()
+            }
+            .background(Color.red)
+            .cornerRadius(15)
+            .padding()
         }
     }
 }

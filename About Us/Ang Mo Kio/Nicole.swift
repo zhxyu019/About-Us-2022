@@ -34,7 +34,10 @@ struct Nicole: View {
                     .font(.system(size: 30, weight: .regular, design: .rounded))
                     .padding()
             }
-
+            Text("is the best")
+                .rotation3DEffect(helloRotation, axis: (1, 0, 0))
+                .font(.system(size: 30, weight: .regular, design: .monospaced))
+                .padding()
             Button{
                 openURL(URL(string: "https://youtu.be/a3LLv53LEuY")!)
             }label: {

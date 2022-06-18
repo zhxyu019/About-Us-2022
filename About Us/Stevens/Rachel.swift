@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct Rachel: View {
     
     @State var nameRotation: Angle = .zero
     @State var showName = false

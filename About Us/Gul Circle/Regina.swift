@@ -15,6 +15,7 @@ struct Regina: View {
                 .resizable()
                 .scaledToFit()
             Text("I LOVE MARSHALL YEAH")
+            Text("wa got chinese version some more (https://www.youtube.com/watch?v=zeFDudodFE0)")
         }
     }
 }

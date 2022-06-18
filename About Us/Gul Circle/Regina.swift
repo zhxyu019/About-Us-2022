@@ -9,7 +9,13 @@ import SwiftUI
 
 struct Regina: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Text("I need sleep")
+            Image("marshall pro")
+                .resizable()
+                .scaledToFit()
+            Text("I LOVE MARSHALL YEAH")
+        }
     }
 }
 

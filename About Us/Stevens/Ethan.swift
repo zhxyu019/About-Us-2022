@@ -120,15 +120,6 @@ struct Ethan: View {
     }
 }
 }
-               
-struct ContentView_Previews: PreviewProvider {
-    static var previews: some View {
-        Group {
-            ContentView()
-        }
-            
-    }
-}
 
 struct Ethan_Previews: PreviewProvider {
     static var previews: some View {

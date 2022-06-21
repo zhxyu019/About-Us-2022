@@ -18,7 +18,7 @@ import SwiftUI
 
 struct EunosView: View {
     var body: some View {
-        StudentView(name: "Saumil", view: Saumil())
+        StudentView(name: "Comrade Saumil", view: Saumil())
         StudentView(name: "Pearl", view: Pearl())
         StudentView(name: "Shao Qi", view: ShaoQi())
         StudentView(name: "Christopher", view: Christopher())

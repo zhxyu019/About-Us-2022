@@ -19,7 +19,7 @@ import SwiftUI
 struct WoodlandsView: View {
     var body: some View {
         StudentView(name: "Xinyi", view: Xinyi())
-        StudentView(name: "Hao Yuan", view: HaoYuan())
+        StudentView(name: "Comrade Hao Yuan", view: HaoYuan())
         StudentView(name: "Kai Qi", view: KaiQi())
         StudentView(name: "Kaitlyn", view: Kaitlyn())
         StudentView(name: "Faith", view: Faith())

@@ -19,7 +19,7 @@ import SwiftUI
 struct InstructorView: View {
     var body: some View {
         StudentView(name: "YJ", view: YJ())
-        StudentView(name: "Jia Chen", view: JiaChen())
+        StudentView(name: "Comrade Jia Chen", view: JiaChen())
     }
 }
 

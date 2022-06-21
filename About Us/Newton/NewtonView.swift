@@ -20,7 +20,7 @@ struct NewtonView: View {
     var body: some View {
         StudentView(name: "Dishita", view: Dishita())
         StudentView(name: "Alpheus", view: Alpheus())
-        StudentView(name: "Yuhan", view: Yuhan())
+        StudentView(name: "Comrade Yuhan", view: Yuhan())
         StudentView(name: "Jun Heng", view: JunHeng())
         StudentView(name: "Jing Xian", view: JingXian())
         StudentView(name: "Ryan", view: Ryan())

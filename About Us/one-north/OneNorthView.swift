@@ -18,7 +18,7 @@ import SwiftUI
 
 struct OneNorthView: View {
     var body: some View {
-        StudentView(name: "Chloe", view: Chloe())
+        StudentView(name: "Comrade Chloe", view: Chloe())
         StudentView(name: "Aaron", view: Aaron())
         StudentView(name: "Zhiyu", view: Zhiyu())
         StudentView(name: "Katelyn", view: Katelyn())

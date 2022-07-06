@@ -42,7 +42,7 @@ struct Faith: View {
                 Button {
                     isHidden = true
                 } label: {
-                    Text("look at my art")
+                    Text("click to look at my art")
                         .foregroundColor(.white)
                         .background(.black)
                         .cornerRadius(10)

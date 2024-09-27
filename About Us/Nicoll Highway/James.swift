@@ -9,7 +9,19 @@ import SwiftUI
 
 struct James: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        VStack {
+            Text("Hello!")
+                .bold()
+                .font(.system(.largeTitle))
+            Text("I am James")
+            Text("I have no idea what to put here.")
+                .font(.caption2)
+            HStack{
+                Text("[Github](https://github.com/jamersonk)")
+                    .padding()
+                Text("[KhanAcademy](http://www.khanacademy.org/profile/jamersonk)")
+            }
+        }
     }
 }
 

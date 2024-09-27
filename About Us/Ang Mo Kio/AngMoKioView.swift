@@ -22,7 +22,7 @@ struct AngMoKioView: View {
         StudentView(name: "Elyssa", view: Elyssa())
         StudentView(name: "Jolie", view: Jolie())
         StudentView(name: "Alina", view: Alina())
-        StudentView(name: "Wonho", view: Wonho())
+        StudentView(name: "Comrade Wonho", view: Wonho())
         StudentView(name: "Nicole", view: Nicole())
         StudentView(name: "Daryl", view: Daryl())
     }
